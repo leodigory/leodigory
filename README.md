@@ -5,25 +5,25 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
 ---
 
 ## 🚀 Sobre Mim  
-<div style="display: flex; align-items: flex-start;">
-  <div style="text-align: justify; flex: 1; padding-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1; text-align: justify;">
     Sou um estudante de Engenharia da Computação na Universidade de Fortaleza (UNIFOR), com foco em desenvolvimento web e mobile, além de design gráfico. Meu objetivo é combinar criatividade e tecnologia para construir experiências intuitivas e impactantes. Apaixonado por resolver problemas e explorar novas ferramentas, busco constantemente aprofundar meus conhecimentos e aplicá-los em projetos que façam a diferença.
+    <p style="text-align: center; margin-top: 20px;">
+      <a href="mailto:01leonardoaraujo@gmail.com">
+        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="mailto:leodigory@gmail.com">
+        <img src="https://img.shields.io/badge/Email_Secundário-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </p>
   </div>
   <div style="flex: 0 0 auto;">
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
+    <img alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
   </div>
 </div>
-<p align="center">
-  <a href="mailto:01leonardoaraujo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:leodigory@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Secundário-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 | 🎓 **Formação**                       | 💻 **Foco Principal**          | 🎨 **Design**                | 🌱 **Crescimento**          | 🚀 **Metas**              |
 |---------------------------------------|--------------------------------|-----------------------------|-----------------------------|---------------------------|
