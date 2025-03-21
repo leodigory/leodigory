@@ -1,11 +1,10 @@
+
 # 🚀 Leonardo Araújo  
 **Estudante de Engenharia da Computação | Desenvolvedor Web/Mobile | Designer Gráfico**  
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px" alt="Tech Stack GIF"/>
-</div>
-
-Sou um estudante de Engenharia da Computação na **UNIFOR**, apaixonado por criar soluções intuitivas e impactantes. Combino tecnologia e criatividade para desenvolver projetos **web/mobile** e designs gráficos únicos. Atualmente, estou focado em **backend** e aprendizado contínuo por meio de bootcamps e projetos práticos.
+| Sobre Mim                                                                                              |                                                                                   |
+|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Sou um estudante de Engenharia da Computação na **UNIFOR**, apaixonado por criar soluções intuitivas e impactantes. Combino tecnologia e criatividade para desenvolver projetos **web/mobile** e designs gráficos únicos. Atualmente, estou focado em **backend** e aprendizado contínuo por meio de bootcamps e projetos práticos. | <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px" alt="Tech Stack GIF"/> |
 
 <div align="center">
   <a href="mailto:01leonardoaraujo@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -62,7 +61,7 @@ Sou um estudante de Engenharia da Computação na **UNIFOR**, apaixonado por cri
 ### 🎨 Design  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/CorelDRAW-F5A623?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJElEQVQ4jZ2SzUoDQRSGv7u4iIuLi+gqFqtYWNjYpGCxU+wMotjYpGAjYpFiY2NjY2GwkBAS7O46c2/OnMksvvkQJplMMvP//5kAwGezWY3ZbDYej8dOp9Nms9ns9/sOh0O/399tNpu6rue6nhsOh+VyOSiKopAkiuVyORqN5mE+nuf5PM/zPM+3XC7Xer2e5/k8TdO63W6r1arZbHZd1/U8z7Ner2fbtu12u91ut9vt9nq9ns1mM51OJ5VKodvt9nq9ns1mM9/39fX19fV6PZvN5vV6PQCg1Wq1Wq3W6/X19fX39/f5fL5er9fr9fV6vV6v13M9nuf5PM/zfJ7n+Xy+nk8mky3Lsl6v57qu63me5/l8Pp/P5/O5XC7X6/X6fD6fz+d5nk8mkwV/AKmauWJ9V2UAAAAASUVORK5CYII=" alt="CorelDRAW"/>
+  <img src="https://img.shields.io/badge/CorelDRAW-F5A623?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJElEQVQ4jZ2SzUoDQRSGv7u4iIuLi+gqFqtYWNjYpGCxU+wMotjYpGAjYpFiY2NjY2GwkBAS7O46c2/OnMksvvkQJplMMvP//5kAwGezWY3ZbDYej8dOp9Nms9ns9/sOh0O/399tNpu6rue6nhsOh+VyOSiKopAkiuVyORqN5mE+nuf5PM/zPM+3XC7Xer2e5/k8TdO63W6r1arZbHZd1/U8z7NUQ4jZ2fbtu12u91ut9vt9nq9ns1mM51OJ5VKodvt9nq9ns1mM9/39fX19fV6PZvN5vV6PQCg1Wq1Wq3W6/X19fX39/f5fL5er9fr9fV6vV6v13M9nuf5PM/zfJ7n+Xy+nk8mky3Lsl6v57qu63me5/l8Pp/P5/O5XC7X6/X6fD6fz+d5nk8mkwV/AKmauWJ9V2UAAAAASUVORK5CYII=" alt="CorelDRAW"/>
 </div>
 
 ### 🌟 Soft Skills  
@@ -76,18 +75,10 @@ Sou um estudante de Engenharia da Computação na **UNIFOR**, apaixonado por cri
 ---
 
 ## 🎉 Bootcamps & Eventos  
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 250px; text-align: center;">
-    <img src="https://img.icons8.com/?size=48&id=38273&format=png" alt="Bootcamp"/>
-    <h3>Bootcamp UNIFOR</h3>
-    <p>6ª Edição<br>Soluções práticas e trabalho em equipe</p>
-  </div>
-  <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 250px; text-align: center;">
-    <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="Backend"/>
-    <h3>Foco Backend</h3>
-    <p>Node.js, APIs e<br>arquitetura de sistemas</p>
-  </div>
-</div>
+| Logo                                                                                   | Descrição                                                                                     |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| <img src="https://img.icons8.com/?size=48&id=38273&format=png" alt="Bootcamp"/>       | **Bootcamp UNIFOR 6ª Edição**<br>Soluções práticas e trabalho em equipe                      |
+| <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="Backend"/>         | **Foco Backend**<br>Node.js, APIs e arquitetura de sistemas                                  |
 
 ---
 
