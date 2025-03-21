@@ -1,20 +1,14 @@
-🚀 Sobre Mim
-Aqui está a versão simplificada da seção **"Sobre Mim"**, com apenas os botões de **Email**, **Email Secundário** e **LinkedIn** integrados ao texto. A imagem continua alinhada à direita, e os botões ficam abaixo da descrição, em um layout limpo e organizado:
-
----
-
 ## 🚀 Sobre Mim  
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
 
-Sou um estudante de Engenharia da Computação na **UNIFOR**, com foco em desenvolvimento **web/mobile** e **design gráfico**. Meu objetivo é combinar criatividade e tecnologia para construir experiências intuitivas e impactantes. Atualmente, estou me aprofundando em **backend**, participando ativamente de bootcamps e projetos práticos para expandir meus conhecimentos.
+Sou um estudante de Engenharia da Computação na **UNIFOR**, com foco em desenvolvimento **web/mobile** e 
+**design gráfico**. Meu objetivo é combinar criatividade e tecnologia para construir experiências 
+intuitivas e impactantes. Atualmente, estou me aprofundando em **backend**, participando ativamente 
+de bootcamps e projetos práticos para expandir meus conhecimentos.
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:01leonardoaraujo@gmail.com)  
 [![Email Secundário](https://img.shields.io/badge/Email_Secundário-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodigory@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/)  
-
-- 🎓 Cursando **Engenharia da Computação** na UNIFOR.  
-- 🎨 Apaixonado por **design gráfico** e criação de interfaces intuitivas.  
-- 🌱 Aprendendo constantemente e buscando novos desafios.  
  
 
 | 🎓 **Formação**                       | 💻 **Foco Principal**          | 🎨 **Design**                | 🌱 **Crescimento**          | 🚀 **Metas**              |
@@ -104,8 +98,7 @@ Sou um estudante de Engenharia da Computação na **UNIFOR**, com foco em desenv
 ### 🏆 Certificações e Conquistas  
 - **Participação no Bootcamp UNIFOR 6ª Edição**  
   - Desenvolvimento de soluções práticas e colaboração em equipe.  
-- **Foco em Backend**  
-  - Estudando Node.js, APIs RESTful e arquitetura de sistemas.  
+
 
 ### 🌍 Idiomas  
 - **Português**: Nativo  
