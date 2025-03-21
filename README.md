@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
 ---
 
 ## 🚀 Sobre Mim  
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1; text-align: justify;">
     Sou um estudante de Engenharia da Computação na Universidade de Fortaleza (UNIFOR), com foco em desenvolvimento web e mobile, além de design gráfico. Meu objetivo é combinar criatividade e tecnologia para construir experiências intuitivas e impactantes. Apaixonado por resolver problemas e explorar novas ferramentas, busco constantemente aprofundar meus conhecimentos e aplicá-los em projetos que façam a diferença.
     <p style="text-align: center; margin-top: 20px;">
@@ -24,7 +24,6 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
     <img alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
   </div>
 </div>
-
 | 🎓 **Formação**                       | 💻 **Foco Principal**          | 🎨 **Design**                | 🌱 **Crescimento**          | 🚀 **Metas**              |
 |---------------------------------------|--------------------------------|-----------------------------|-----------------------------|---------------------------|
 | ![UNIFOR](https://img.shields.io/badge/UNIFOR-Engenharia-006633?style=for-the-badge&logo=school&logoColor=white) | ![Web & Mobile](https://img.shields.io/badge/Web_&_Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Designer](https://img.shields.io/badge/Designer-F5A623?style=for-the-badge&logo=figma&logoColor=white) | ![Aprofundando](https://img.shields.io/badge/Aprofundando-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white) | ![Desafios](https://img.shields.io/badge/Desafios-FF5722?style=for-the-badge&logo=superpowers&logoColor=white) |
