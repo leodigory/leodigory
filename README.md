@@ -7,9 +7,7 @@
 - 🎨 **Designer Gráfico** com experiência na criação de logos e layouts para diversas empresas.
 - 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores.
 
-# Jogo da Velha
-Escolha X ou O e jogue com um amigo nos comentários!
-
+![Snake Animation](https://github.com/leodigory/leodigory/blob/output/snake.svg)
 
 ## Habilidades
 ### Tecnologias
