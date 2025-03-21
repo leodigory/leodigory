@@ -6,7 +6,7 @@
 - 🌱 Aprofundando meus conhecimentos em **Desenvolvimento Web e Mobile**.
 - 🎨 **Designer Gráfico** com experiência na criação de logos e layouts para diversas empresas.
 - 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores.
-
+![Chess](https://img.shields.io/badge/Chess-Play-black?style=for-the-badge&logo=chess)
 ## Habilidades
 ### Tecnologias
 - **Front-end:** HTML, CSS, JavaScript, React.js, React Native
@@ -31,7 +31,7 @@
 - Aprendizado contínuo
 
 ## Projetos Destacados
-- **[https://github.com/leodigory/virtual_teclado](link)** - Teclado Virtual React - Material MUI - Responsivo.
+- **[https://github.com/leodigory/virtual_teclado.git](link)** - Teclado Virtual React - Material MUI - Responsivo.
 - **[Projeto 2](link)** - Descrição breve do projeto e tecnologias utilizadas.
 - **[Projeto 3](link)** - Descrição breve do projeto e tecnologias utilizadas.
 
