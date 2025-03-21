@@ -1,28 +1,16 @@
-Aqui está uma versão atualizada do seu perfil do GitHub com as dicas aplicadas, incluindo a participação no Bootcamp da 6ª edição da UNIFOR e seu foco em aprender sobre backend:
-
----
-
-# Olá, eu sou Leonardo Araújo! 👋
-
-Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado por criar soluções que conectam pessoas e simplificam vidas.
-
----
-
-## 🚀 Sobre Mim  
-Sou um estudante de Engenharia da Computação na UNIFOR, com foco em desenvolvimento
-web/mobile e design gráfico. Meu objetivo é combinar criatividade e 
-tecnologia para construir experiências intuitivas e impactantes. Atualmente, estou me aprofundando em **backend** e participando ativamente de bootcamps e projetos práticos para expandir meus conhecimentos.
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:01leonardoaraujo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+🚀 Sobre Mim
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
+Sou um estudante de Engenharia da Computação na UNIFOR, com foco em desenvolvimento web/mobile e design gráfico. Meu objetivo é combinar criatividade e tecnologia para construir experiências intuitivas e impactantes. Atualmente, estou me aprofundando em backend, participando ativamente de bootcamps e projetos práticos para expandir meus conhecimentos.
+
+🎓 Cursando Engenharia da Computação na UNIFOR.
+
+💻 Focado em desenvolvimento backend com Node.js, APIs e bancos de dados.
+
+🎨 Apaixonado por design gráfico e criação de interfaces intuitivas.
+
+🌱 Aprendendo constantemente e buscando novos desafios.
+
+<p align='center'> <a href="https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:01leonardoaraujo@gmail.com"> <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 | 🎓 **Formação**                       | 💻 **Foco Principal**          | 🎨 **Design**                | 🌱 **Crescimento**          | 🚀 **Metas**              |
 |---------------------------------------|--------------------------------|-----------------------------|-----------------------------|---------------------------|
