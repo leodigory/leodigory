@@ -6,7 +6,11 @@
 - 🌱 Aprofundando meus conhecimentos em **Desenvolvimento Web e Mobile**.
 - 🎨 **Designer Gráfico** com experiência na criação de logos e layouts para diversas empresas.
 - 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores.
-![Chess](https://img.shields.io/badge/Chess-Play-black?style=for-the-badge&logo=chess)
+
+# Jogo da Velha
+Escolha X ou O e jogue com um amigo nos comentários!
+
+
 ## Habilidades
 ### Tecnologias
 - **Front-end:** HTML, CSS, JavaScript, React.js, React Native
