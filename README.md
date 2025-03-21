@@ -10,9 +10,15 @@
 ## Habilidades
 ### Tecnologias
 - **Front-end:** HTML, CSS, JavaScript, React.js, React Native
-- **Back-end:** Node.js, TypeScript, java
+- **Back-end:** Node.js, TypeScript, JAVA
 - **Cloud & Databases:** AWS, Firebase
 - **Versionamento:** Git, GitHub
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Design
 - **Ferramentas:** Figma, CorelDRAW
