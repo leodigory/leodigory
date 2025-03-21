@@ -8,13 +8,17 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
    
   ![UNIFOR](https://img.shields.io/badge/UNIFOR-Engenharia-006633?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABVklEQVQ4jZ2SvUoDQRSFv3d3EQsLCwsLKyvBwsLCwsLCwgoLCwsLCwsLCysrK8HCwsLCwsLCysrKysrKysrKysrKysrKysrKysrKysrKyu7gAc7MmQczc878lwAAZrPZ7Xa73W632+32er2ezWYznU4nlUqh2+32er2ezWYz3/f19fX19Xo9m83m9Xo9AKDVarVardbr9fX19ff39/l8vl6v1+v19Xq9Xq/Xcz2e5/k8z/M8n+d5Pp+v55PJZMuyrNfrua7rep7neT6fz+fzuVwu1+v1+nw+n8/neZ5PJpMFfwCpmrlifVdlAAAAAElFTkSuQmCC)  **Cursando Engenharia da Computação na UNIFOR**
 
-  ![Web e Mobile](https://img.shields.io/badge/Web_&_Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black)  **Apaixonado por Web e Mobile**  
+  ![Web e Mobile](https://img.shields.io/badge/Web_&_Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+  **Apaixonado por Web e Mobile**  
   
-  ![Designer](https://img.shields.io/badge/Designer-F5A623?style=for-the-badge&logo=figma&logoColor=white)  **Designer Gráfico**  
+  ![Designer](https://img.shields.io/badge/Designer-F5A623?style=for-the-badge&logo=figma&logoColor=white)  
+  **Designer Gráfico**  
 
-  ![Aprofundando](https://img.shields.io/badge/Aprofundando-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)  **Aprofundando Conhecimento**  
+  ![Aprofundando](https://img.shields.io/badge/Aprofundando-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)  
+  **Aprofundando Conhecimento**  
 
-  ![Desafios](https://img.shields.io/badge/Desafios-FF5722?style=for-the-badge&logo=superpowers&logoColor=white) 🚀 **Buscando Desafios** 
+  ![Desafios](https://img.shields.io/badge/Desafios-FF5722?style=for-the-badge&logo=superpowers&logoColor=white) 
+  🚀 **Buscando Desafios** 
 
 ---
 
@@ -47,7 +51,8 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
 
 ### 🌟 Soft Skills
 ![Comunicação](https://img.shields.io/badge/Comunicação-00C4B4?style=for-the-badge&logo=speakap&logoColor=white)  **Comunicação Eficaz**
-![Liderança](https://img.shields.io/badge/Liderança-FF5722?style=for-the-badge&logo=superpowers&logoColor=white) **Liderança** (Lead Contributor em projetos acadêmicos e pessoais)  
+![Liderança](https://img.shields.io/badge/Liderança-FF5722?style=for-the-badge&logo=superpowers&logoColor=white) **Liderança** (Lead Contributor em projetos acadêmicos e pessoais) 
+
 ![Resolução](https://img.shields.io/badge/Resolução-1976D2?style=for-the-badge&logo=codeforces&logoColor=white) **Resolução de Problemas** 
 ![Aprendizado](https://img.shields.io/badge/Aprendizado-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)  **Aprendizado Contínuo**  
 
@@ -57,7 +62,8 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
 - **[Teclado Virtual](https://github.com/leodigory/virtual_teclado)**  
   Um teclado virtual responsivo feito com React e Material-UI.  
   [![Teclado Virtual](https://img.shields.io/badge/Teclado_Virtual-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/leodigory/virtual_teclado)  
-  ![Preview]([https://i.imgur.com/8jX9kZt.png](https://private-user-images.githubusercontent.com/30541850/425307933-ea73248d-0cca-4e6d-b8f2-78a59cece5b8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1NjE3NjcsIm5iZiI6MTc0MjU2MTQ2NywicGF0aCI6Ii8zMDU0MTg1MC80MjUzMDc5MzMtZWE3MzI0OGQtMGNjYS00ZTZkLWI4ZjItNzhhNTljZWNlNWI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDEyNTEwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVlNjY5Mzg2ZTFlMzg0ZGQzY2JiNTg1YjQxYmQyY2ExNWJhMzZhM2FlM2UxOGNmYzFjOWQ2MTllN2NlMDkzYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xXTL2i2Z81362UJX9M2kRDTNc77cHBjfXh7M4qKRogE))  
+  ![Preview](![image](https://github.com/user-attachments/assets/540f8e32-41be-4671-93b5-e1a022e510b1)
+))  
 
 - **[Projeto 2](link)**  
   (Adicione uma descrição breve e tecnologias usadas.)  
