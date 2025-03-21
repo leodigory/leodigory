@@ -15,7 +15,6 @@
 ---
 | ## 🧠 Sobre Mim                                                                                              |                                                                                   |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-
 |<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 15px;">
   <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 200px; text-align: center;">
     <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="Graduação"/>
