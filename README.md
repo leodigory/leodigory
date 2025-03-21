@@ -2,15 +2,15 @@
 
 ## Sobre mim
 - 🎓 Atualmente cursando Engenharia da Computação na **UNIFOR**.
-- 🎨 **Designer Gráfico** com experiência na criação de logos e layouts para diversas empresas.
 - 💻 Apaixonado por conectar pessoas através de experiências intuitivas e soluções digitais.
 - 🌱 Aprofundando meus conhecimentos em **Desenvolvimento Web e Mobile**.
+- 🎨 **Designer Gráfico** com experiência na criação de logos e layouts para diversas empresas.
 - 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores.
 
 ## Habilidades
 ### Tecnologias
 - **Front-end:** HTML, CSS, JavaScript, React.js, React Native
-- **Back-end:** Node.js, TypeScript
+- **Back-end:** Node.js, TypeScript, java
 - **Cloud & Databases:** AWS, Firebase
 - **Versionamento:** Git, GitHub
 
@@ -32,8 +32,6 @@
 ## Contato
 - 📫 **Email:** [01leonardoaraujo@gmail.com](mailto:01leonardoaraujo@gmail.com) | [leodigory@gmail.com](mailto:leodigory@gmail.com)
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/](link)
-- 🐦 **Twitter:** [Seu Twitter](link)
-- 🎨 **Behance/Dribbble:** [Seu Portfólio de Design](link) (se aplicável)
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leodigory&show_icons=true&theme=radical)
