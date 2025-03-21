@@ -31,7 +31,7 @@
 - Aprendizado contínuo
 
 ## Projetos Destacados
-- **[Projeto 1](link)** - Descrição breve do projeto e tecnologias utilizadas.
+- **[https://github.com/leodigory/virtual_teclado](link)** - Teclado Virtual React - Material MUI - Responsivo.
 - **[Projeto 2](link)** - Descrição breve do projeto e tecnologias utilizadas.
 - **[Projeto 3](link)** - Descrição breve do projeto e tecnologias utilizadas.
 
@@ -40,7 +40,8 @@
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/](link)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leodigory&show_icons=true&theme=radical)
+![Estatísticas do GitHub]
+(https://github-readme-stats.vercel.app/api?username=leodigory&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leodigory&layout=compact&theme=radical)
 
 ## Objetivo
