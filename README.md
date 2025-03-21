@@ -12,8 +12,27 @@
   <a href="https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-🧠 Sobre Mim
-<div style="display: flex; justify-content: space-between; border: none;"> <div style="flex: 1; text-align: left; border: none;"> <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="Graduação" align="left" width="48"/> **🎓 Formação**<br>Engenharia da Computação<br><strong>UNIFOR</strong> </div> <div style="flex: 1; text-align: left; border: none;"> <img src="https://img.icons8.com/?size=48&id=124991&format=png" alt="Foco" align="left" width="48"/> **💻 Foco**<br>Desenvolvimento<br>Web & Mobile </div> <div style="flex: 1; text-align: left; border: none;"> <img src="https://img.icons8.com/?size=48&id=13664&format=png" alt="Design" align="left" width="48"/> **🎨 Design**<br>UI/UX e<br>Gráficos 2D/3D </div> <div style="flex: 1; text-align: left; border: none;"> <img src="https://img.icons8.com/?size=48&id=108787&format=png" alt="Crescimento" align="left" width="48"/> **🌱 Crescimento**<br>Aprendizado<br>Contínuo </div> </div>
+---
+
+## 🧠 Sobre Mim  
+<div style="display: flex; justify-content: space-between; border: none;">
+  <div style="flex: 1; text-align: left; border: none;">
+    <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="Graduação" align="left" width="48"/>  
+    **🎓 Formação**<br>Engenharia da Computação<br><strong>UNIFOR</strong>
+  </div>
+  <div style="flex: 1; text-align: left; border: none;">
+    <img src="https://img.icons8.com/?size=48&id=124991&format=png" alt="Foco" align="left" width="48"/>  
+    **💻 Foco**<br>Desenvolvimento<br>Web & Mobile
+  </div>
+  <div style="flex: 1; text-align: left; border: none;">
+    <img src="https://img.icons8.com/?size=48&id=13664&format=png" alt="Design" align="left" width="48"/>  
+    **🎨 Design**<br>UI/UX e<br>Gráficos 2D/3D
+  </div>
+  <div style="flex: 1; text-align: left; border: none;">
+    <img src="https://img.icons8.com/?size=48&id=108787&format=png" alt="Crescimento" align="left" width="48"/>  
+    **🌱 Crescimento**<br>Aprendizado<br>Contínuo
+  </div>
+</div>
 
 ---
 ## 💡 Habilidades  
