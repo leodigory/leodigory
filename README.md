@@ -3,8 +3,9 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Leonardo Araújo" /></a>
 </p>
 
-<p align="center"> 
-    <img src="https://readme-typing-svg.demolab.com/?lines=Estudante%20de%20Engenharia%20da%20Computação;Desenvolvedor%20Web%20e%20Mobile;Designer%20Gráfico;Sempre%20aprendendo%20novas%20tecnologias&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+<p align="center">
+  <a href="https://github.com/leodigory">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Estudante%20de%20Engenharia%20da%20Computação;Desenvolvedor%20Web%20e%20Mobile;Designer%20Gráfico;Sempre%20aprendendo%20novas%20tecnologias&font=Fira%20Code¢er=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -31,7 +32,6 @@
 <details open> 
   <summary><h2>📘 Meus Principais Projetos Open Source</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/leodigory/virtual_teclado"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leodigory&repo=virtual_teclado&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="virtual_teclado"></a>
     <!-- Placeholder para projetos futuros -->
@@ -88,16 +88,15 @@
   <h3>🔥 Streak Stats</h3>
 
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leonardo Araújo's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=leodigory&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    <a href="https://github.com/leodigory">
+      <img title="🔥 Get streak stats for your profile" alt="Leonardo Araújo's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=leodigory&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
-    <p>🔥 Veja suas estatísticas de streak em <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 Estatísticas do Perfil GitHub</h3>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Leonardo Araújo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=leodigory&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Leonardo Araújo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leodigory&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/leodigory"><img alt="Leonardo Araújo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=leodigory&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/leodigory"><img alt="Leonardo Araújo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leodigory&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
 
   <b>Nota:</b> As linguagens mais usadas refletem apenas o código público e não necessariamente meu nível de habilidade ou experiência.
