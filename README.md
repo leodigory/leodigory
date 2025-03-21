@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
 
   ![Web e Mobile](https://img.shields.io/badge/Web_&_Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
   **Apaixonado por Web e Mobile**  
-  
+
   ![Designer](https://img.shields.io/badge/Designer-F5A623?style=for-the-badge&logo=figma&logoColor=white)  
   **Designer Gráfico**  
 
@@ -51,9 +51,11 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
 
 ### 🌟 Soft Skills
 ![Comunicação](https://img.shields.io/badge/Comunicação-00C4B4?style=for-the-badge&logo=speakap&logoColor=white)  **Comunicação Eficaz**
+
 ![Liderança](https://img.shields.io/badge/Liderança-FF5722?style=for-the-badge&logo=superpowers&logoColor=white) **Liderança** (Lead Contributor em projetos acadêmicos e pessoais) 
 
 ![Resolução](https://img.shields.io/badge/Resolução-1976D2?style=for-the-badge&logo=codeforces&logoColor=white) **Resolução de Problemas** 
+
 ![Aprendizado](https://img.shields.io/badge/Aprendizado-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)  **Aprendizado Contínuo**  
 
 ---
@@ -62,7 +64,8 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
 - **[Teclado Virtual](https://github.com/leodigory/virtual_teclado)**  
   Um teclado virtual responsivo feito com React e Material-UI.  
   [![Teclado Virtual](https://img.shields.io/badge/Teclado_Virtual-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/leodigory/virtual_teclado)  
-  ![Preview](![image](https://github.com/user-attachments/assets/540f8e32-41be-4671-93b5-e1a022e510b1)
+  ![image](https://github.com/user-attachments/assets/02befe0e-c5e8-4b0a-8645-6b1c799b0223)
+
 ))  
 
 - **[Projeto 2](link)**  
