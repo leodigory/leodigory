@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Leonardo Araújo! 👋
 
-<!--
-**leodigory/leodigory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🎓 Atualmente cursando Engenharia da Computação na **UNIFOR**.
+- 🎨 **Designer Gráfico** com experiência na criação de logos e layouts para diversas empresas.
+- 💻 Apaixonado por conectar pessoas através de experiências intuitivas e soluções digitais.
+- 🌱 Aprofundando meus conhecimentos em **Desenvolvimento Web e Mobile**.
+- 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores.
 
-Here are some ideas to get you started:
+## Habilidades
+### Tecnologias
+- **Front-end:** HTML, CSS, JavaScript, React.js, React Native
+- **Back-end:** Node.js, TypeScript
+- **Cloud & Databases:** AWS, Firebase
+- **Versionamento:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Design
+- **Ferramentas:** Figma, CorelDRAW
+- **Habilidades:** Design 2D/3D, Criação de Logos, Layouts
+
+### Soft Skills
+- Comunicação eficaz
+- Liderança (Lead Contributor em projetos acadêmicos e pessoais)
+- Resolução de problemas
+- Aprendizado contínuo
+
+## Projetos Destacados
+- **[Projeto 1](link)** - Descrição breve do projeto e tecnologias utilizadas.
+- **[Projeto 2](link)** - Descrição breve do projeto e tecnologias utilizadas.
+- **[Projeto 3](link)** - Descrição breve do projeto e tecnologias utilizadas.
+
+## Contato
+- 📫 **Email:** [01leonardoaraujo@gmail.com](mailto:01leonardoaraujo@gmail.com) | [leodigory@gmail.com](mailto:leodigory@gmail.com)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/](link)
+- 🐦 **Twitter:** [Seu Twitter](link)
+- 🎨 **Behance/Dribbble:** [Seu Portfólio de Design](link) (se aplicável)
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leodigory&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leodigory&layout=compact&theme=radical)
+
+## Objetivo
+Meu objetivo é contribuir para a criação de soluções impactantes e intuitivas que simplifiquem a vida das pessoas e impulsionem a inovação no campo da tecnologia. Estou sempre em busca de novos desafios e oportunidades para aprender e compartilhar conhecimento.
