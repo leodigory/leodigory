@@ -5,11 +5,16 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
 ---
 
 ## Sobre Mim
-- 🎓 **Cursando Engenharia da Computação** na **UNIFOR**.
-- 💻 **Foco em Desenvolvimento Web e Mobile**, criando experiências intuitivas e funcionais.
-- 🌱 **Aprofundando conhecimentos** em tecnologias modernas e boas práticas de código.
-- 🎨 **Designer Gráfico**, com experiência em logos e layouts para diversas empresas.
-- 🚀 **Buscando desafios** para aplicar minhas habilidades em projetos inovadores.
+- 🎓 **Cursando Engenharia da Computação na UNIFOR**  
+  ![UNIFOR](https://img.shields.io/badge/UNIFOR-Engenharia-006633?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABVklEQVQ4jZ2SvUoDQRSFv3d3EQsLCwsLKyvBwsLCwsLCwgoLCwsLCwsLCwsrKyvBwsLCwsLCwsrKysrKysrKysrKysrKysrKysrKysrKyspu4AHOzJkHM3PO/JcAAGaz2e12u91ut9vt9nq9ns1mM51OJ5VKodvt9nq9ns1mM9/39fX19fV6PZvN5vV6PQCg1Wq1Wq3W6/X19fX39/f5fL5er9fr9fV6vV6v13M9nuf5PM/zfJ7n+Xy+nk8mky3Lsl6v57qu63me5/l8Pp/P5/O5XC7X6/X6fD6fz+d5nk8mkwV/AKmauWJ9V2UAAAAASUVORK5CYII=)  
+- 💻 **Apaixonado por Web e Mobile**  
+  ![Web e Mobile](https://img.shields.io/badge/Web_&_Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+- 🎨 **Designer Gráfico**  
+  ![Designer](https://img.shields.io/badge/Designer-F5A623?style=for-the-badge&logo=figma&logoColor=white)  
+- 🌱 **Aprofundando Conhecimento**  
+  ![Aprofundando](https://img.shields.io/badge/Aprofundando-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)  
+- 🚀 **Buscando Desafios**  
+  ![Desafios](https://img.shields.io/badge/Desafios-FF5722?style=for-the-badge&logo=superpowers&logoColor=white)
 
 ---
 
@@ -64,12 +69,18 @@ Git • GitHub
 ---
 
 ## Projetos Destacados
-- 🎹 **[Teclado Virtual](https://github.com/leodigory/virtual_teclado)**  
+- **[Teclado Virtual](https://github.com/leodigory/virtual_teclado)**  
   Um teclado virtual responsivo feito com React e Material-UI.  
-- 🚧 **[Projeto 2](link)**  
+  [![Teclado Virtual](https://img.shields.io/badge/Teclado_Virtual-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/leodigory/virtual_teclado)  
+  ![Preview](https://i.imgur.com/8jX9kZt.png) *(Imagem exemplo de um teclado virtual)*  
+
+- **[Projeto 2](link)**  
   (Adicione uma descrição breve e tecnologias usadas.)  
-- 🚧 **[Projeto 3](link)**  
-  (Adicione uma descrição breve e tecnologias usadas.)
+  [![Projeto 2](https://img.shields.io/badge/Projeto_2-Em_Breve-555555?style=for-the-badge&logo=github&logoColor=white)](link)  
+
+- **[Projeto 3](link)**  
+  (Adicione uma descrição breve e tecnologias usadas.)  
+  [![Projeto 3](https://img.shields.io/badge/Projeto_3-Em_Breve-555555?style=for-the-badge&logo=github&logoColor=white)](link)  
 
 ---
 
