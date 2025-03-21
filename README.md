@@ -6,9 +6,7 @@ Sou um estudante de Engenharia da Computação na **UNIFOR**, com foco em desenv
 intuitivas e impactantes. Atualmente, estou me aprofundando em **backend**, participando ativamente 
 de bootcamps e projetos práticos para expandir meus conhecimentos.
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:01leonardoaraujo@gmail.com)  
-[![Email Secundário](https://img.shields.io/badge/Email_Secundário-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodigory@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/)  
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:01leonardoaraujo@gmail.com)[![Email Secundário](https://img.shields.io/badge/Email_Secundário-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodigory@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/)  
  
 
 | 🎓 **Formação**                       | 💻 **Foco Principal**          | 🎨 **Design**                | 🌱 **Crescimento**          | 🚀 **Metas**              |
