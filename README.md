@@ -19,30 +19,21 @@
   <a href="https://github.com/leodigory"><img src="https://github-readme-stats.vercel.app/api?username=leodigory&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align='center'>
-  💻 Meu ambiente de trabalho<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 Mais Sobre Mim:
 
 - 🤝   Quero colaborar em projetos open-source no [GitHub](https://github.com/leodigory)
-- 🌱   Estou aprendendo **TypeScript**
-- 👨🏻‍💻   Meus projetos estão disponíveis no [Github](https://github.com/leodigory?tab=repositories)
-- 🎨   Uso Figma para criar designs e layouts
+-  👨🏻‍💻   Meus projetos estão disponíveis no [Github](https://github.com/leodigory?tab=repositories)
 - 💬   Pergunte-me sobre qualquer coisa relacionada a tecnologia, estou feliz em ajudar
 - 📫   Sinta-se à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/)
-- 📝   Veja meu [currículo](#) (adicione o link do seu currículo aqui)
-- 📚   Quando estou livre, gosto de estudar novas tecnologias e ler sobre design
+- 📝   Veja meu [currículo](#) (link aqui)
+- 📚   Quando estou livre, gosto de estudar novas tecnologias
 
 <br>
 
 ### 🔨 Linguagens e Ferramentas:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
@@ -100,7 +91,8 @@
 
 ### 🛠️ Meus Projetos
 <p align="left">
-  <a href="https://github.com/leodigory/virtual_teclado"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leodigory&repo=virtual_teclado&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="virtual_teclado"></a>
+  <a href="https://github.com/leodigory/virtual_teclado"><img width="278" src="![image](https://github.com/user-attachments/assets/4fb5e5ea-7159-46b5-b2a9-219209631d59)
+" alt="virtual_teclado"></a>
   <p>Teclado Virtual - Um teclado responsivo feito com React e Material-UI.</p>
   <br>
   <a href="https://github.com/leodigory"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leodigory&repo=projeto-2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="projeto-2"></a>
