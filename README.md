@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='mailto:01leonardoaraujo@gmail.com'><img align='left' alt="email" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 
-Eu sou um entusiasta da tecnologia e do design, adaptando-me facilmente a diferentes papéis (Desenvolvedor Web 🌐, Desenvolvedor Mobile 📱, Designer Gráfico 🎨 ou estudante em busca de novos desafios) dependendo do que o projeto exige. Adoro explorar novas tecnologias 💻 e usá-las para criar soluções incríveis 🛠️.
+Sou um estudante de Engenharia da Computação apaixonado por tecnologia e design, com habilidades versáteis que me permitem adaptar-me a diferentes papéis — como Desenvolvedor Web e Mobile 🌐📱 ou Designer Gráfico 🎨 — dependendo das necessidades do projeto. Tenho experiência em criar soluções responsivas e intuitivas, combinando criatividade e lógica técnica, e adoro explorar novas tecnologias 💻 para construir projetos impactantes 🛠️ que melhorem a vida das pessoas.
 <br/>
 <br/>
 
@@ -10,7 +10,6 @@ Eu sou um entusiasta da tecnologia e do design, adaptando-me facilmente a difere
   
 ### 🧐 Mais Sobre Mim:
 
-- 🔭   Estou atualmente trabalhando no **Teclado Virtual**
 - 🤝   Quero colaborar em projetos open-source no [GitHub](https://github.com/leodigory)
 - 🌱   Estou aprendendo **TypeScript**
 - 👨🏻‍💻   Meus projetos estão disponíveis no [Github](https://github.com/leodigory?tab=repositories)
@@ -49,9 +48,8 @@ Eu sou um entusiasta da tecnologia e do design, adaptando-me facilmente a difere
 <br>
 
 ### 🛠️ Meus Projetos
-<a href="https://github.com/leodigory/virtual_teclado" target="_blank"> <img alt="teclado-virtual" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/master/projects/artistify.svg" height="68" align="left"> </a>
-<p>Teclado Virtual - Um teclado responsivo feito com React e Material-UI.</p>
-<br>
-<br>
-<a href="https://github.com/leodigory" target="_blank"> <img alt="projeto-2" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/master/projects/sheetsdatabase.svg" height="68" align="left"> </a>
-<a href="https://github.com/leodigory" target="_blank"> <img alt="projeto-3" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/master/projects/readmeicons.svg" height="68" align="left"> </a>
+<p align="left">
+  <a href="https://github.com/leodigory/virtual_teclado"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leodigory&repo=virtual_teclado&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="virtual_teclado"></a>
+  <p>Teclado Virtual - Um teclado responsivo feito com React e Material-UI.</p>
+  <br>
+</p>
