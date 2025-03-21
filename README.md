@@ -1,3 +1,7 @@
+Aqui está uma versão atualizada do seu perfil do GitHub com as dicas aplicadas, incluindo a participação no Bootcamp da 6ª edição da UNIFOR e seu foco em aprender sobre backend:
+
+---
+
 # Olá, eu sou Leonardo Araújo! 👋
 
 Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado por criar soluções que conectam pessoas e simplificam vidas.
@@ -7,7 +11,8 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
 ## 🚀 Sobre Mim  
 Sou um estudante de Engenharia da Computação na UNIFOR, com foco em desenvolvimento
 web/mobile e design gráfico. Meu objetivo é combinar criatividade e 
-tecnologia para construir experiências intuitivas e impactantes.
+tecnologia para construir experiências intuitivas e impactantes. Atualmente, estou me aprofundando em **backend** e participando ativamente de bootcamps e projetos práticos para expandir meus conhecimentos.
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,7 +21,6 @@ tecnologia para construir experiências intuitivas e impactantes.
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
 
@@ -58,12 +62,28 @@ tecnologia para construir experiências intuitivas e impactantes.
 
 ---
 
+## � Bootcamps e Eventos  
+| **Evento**                                                                                     | **Descrição**                                      | **Aprendizados**                       |
+|------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------|
+| ![Bootcamp UNIFOR 6ª Edição](https://img.shields.io/badge/Bootcamp_UNIFOR_6ª_Edição-006633?style=for-the-badge&logo=school&logoColor=white) | Participação no Bootcamp da 6ª edição da UNIFOR   | Desenvolvimento de soluções práticas, trabalho em equipe e aprofundamento em tecnologias modernas. |
+| ![Foco em Backend](https://img.shields.io/badge/Foco_em_Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | Aprofundando conhecimentos em backend             | Node.js, APIs RESTful, bancos de dados e arquitetura de sistemas. |
+
+---
+
 ## 🛠️ Projetos Destacados  
 | **Projeto**                                                                                     | **Descrição**                                      | **Tecnologias**                       | **Preview**                           |
 |------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------|---------------------------------------|
 | [![Teclado Virtual](https://img.shields.io/badge/Teclado_Virtual-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/leodigory/virtual_teclado) | Teclado virtual responsivo com interface moderna  | React, Material-UI                    | ![Preview](https://github.com/user-attachments/assets/02befe0e-c5e8-4b0a-8645-6b1c799b0223) |
 | [![Projeto 2](https://img.shields.io/badge/Projeto_2-Em_Breve-555555?style=for-the-badge&logo=github&logoColor=white)](link) | (Descrição breve do projeto em desenvolvimento)   | (Tecnologias usadas)                  | (Adicione uma imagem quando pronto)   |
 | [![Projeto 3](https://img.shields.io/badge/Projeto_3-Em_Breve-555555?style=for-the-badge&logo=github&logoColor=white)](link) | (Descrição breve do projeto em desenvolvimento)   | (Tecnologias usadas)                  | (Adicione uma imagem quando pronto)   |
+
+---
+
+## 🌱 Roadmap de Aprendizado  
+- **Backend**: Aprofundar conhecimentos em Node.js, APIs RESTful, GraphQL e arquitetura de microsserviços.  
+- **Banco de Dados**: Estudar bancos relacionais (PostgreSQL) e não relacionais (MongoDB).  
+- **DevOps**: Aprender Docker, Kubernetes e CI/CD para automação de deploy.  
+- **Segurança**: Estudar boas práticas de segurança em APIs e sistemas.  
 
 ---
 
@@ -92,4 +112,25 @@ tecnologia para construir experiências intuitivas e impactantes.
 ---
 
 **Obrigado por visitar meu perfil!** 😄  
-*Vamos construir algo incrível juntos?*
+*Vamos construir algo incrível juntos?*  
+
+---
+
+### 🏆 Certificações e Conquistas  
+- **Participação no Bootcamp UNIFOR 6ª Edição**  
+  - Desenvolvimento de soluções práticas e colaboração em equipe.  
+- **Foco em Backend**  
+  - Estudando Node.js, APIs RESTful e arquitetura de sistemas.  
+
+### 🌍 Idiomas  
+- **Português**: Nativo  
+- **Inglês**: Avançado  
+
+### 🎮 Interesses Pessoais  
+- Desenvolvimento de jogos indie  
+- Fotografia e edição de vídeos  
+- Música e produção musical  
+
+---
+
+Com essas adições, seu perfil ficará ainda mais completo e impactante, mostrando seu foco em backend e sua participação ativa em bootcamps e eventos. 😊
