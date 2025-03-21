@@ -13,14 +13,15 @@
 </div>
 
 ---
+| ## 🧠 Sobre Mim                                                                                              |                                                                                   |
+|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 
-## 🧠 Sobre Mim  
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 15px;">
+|<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 15px;">
   <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 200px; text-align: center;">
     <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="Graduação"/>
     <h3>🎓 Formação</h3>
     <p>Engenharia da Computação<br><strong>UNIFOR</strong></p>
-  </div>
+  </div>|
   <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 200px; text-align: center;">
     <img src="https://img.icons8.com/?size=48&id=124991&format=png" alt="Foco"/>
     <h3>💻 Foco</h3>
@@ -28,7 +29,7 @@
   </div>
   <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 200px; text-align: center;">
     <img src="https://img.icons8.com/?size=48&id=13664&format=png" alt="Design"/>
-    <h3>🎨 Design</h3>
+   | <h3>🎨 Design</h3>
     <p>UI/UX e<br>Gráficos 2D/3D</p>
   </div>
   <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 200px; text-align: center;">
@@ -36,7 +37,7 @@
     <h3>🌱 Crescimento</h3>
     <p>Aprendizado<br>Contínuo</p>
   </div>
-</div>
+</div>|
 
 ---
 
