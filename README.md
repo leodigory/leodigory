@@ -1,16 +1,21 @@
 🚀 Sobre Mim
+Aqui está a versão simplificada da seção **"Sobre Mim"**, com apenas os botões de **Email**, **Email Secundário** e **LinkedIn** integrados ao texto. A imagem continua alinhada à direita, e os botões ficam abaixo da descrição, em um layout limpo e organizado:
+
+---
+
+## 🚀 Sobre Mim  
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
-Sou um estudante de Engenharia da Computação na UNIFOR, com foco em desenvolvimento web/mobile e design gráfico. Meu objetivo é combinar criatividade e tecnologia para construir experiências intuitivas e impactantes. Atualmente, estou me aprofundando em backend, participando ativamente de bootcamps e projetos práticos para expandir meus conhecimentos.
 
-🎓 Cursando Engenharia da Computação na UNIFOR.
+Sou um estudante de Engenharia da Computação na **UNIFOR**, com foco em desenvolvimento **web/mobile** e **design gráfico**. Meu objetivo é combinar criatividade e tecnologia para construir experiências intuitivas e impactantes. Atualmente, estou me aprofundando em **backend**, participando ativamente de bootcamps e projetos práticos para expandir meus conhecimentos.
 
-💻 Focado em desenvolvimento backend com Node.js, APIs e bancos de dados.
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:01leonardoaraujo@gmail.com)  
+[![Email Secundário](https://img.shields.io/badge/Email_Secundário-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodigory@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/)  
 
-🎨 Apaixonado por design gráfico e criação de interfaces intuitivas.
-
-🌱 Aprendendo constantemente e buscando novos desafios.
-
-<p align='center'> <a href="https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:01leonardoaraujo@gmail.com"> <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+- 🎓 Cursando **Engenharia da Computação** na UNIFOR.  
+- 🎨 Apaixonado por **design gráfico** e criação de interfaces intuitivas.  
+- 🌱 Aprendendo constantemente e buscando novos desafios.  
+ 
 
 | 🎓 **Formação**                       | 💻 **Foco Principal**          | 🎨 **Design**                | 🌱 **Crescimento**          | 🚀 **Metas**              |
 |---------------------------------------|--------------------------------|-----------------------------|-----------------------------|---------------------------|
@@ -73,14 +78,6 @@ Sou um estudante de Engenharia da Computação na UNIFOR, com foco em desenvolvi
 - **DevOps**: Aprender Docker, Kubernetes e CI/CD para automação de deploy.  
 - **Segurança**: Estudar boas práticas de segurança em APIs e sistemas.  
 
----
-
-## 📞 Contato  
-| **Meio**                                                                                       | **Detalhes**                                      | **Ação**                              |
-|------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------|
-| ![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white) | 01leonardoaraujo@gmail.com                       | [![Contato](https://img.shields.io/badge/Enviar_Email-0078D4?style=for-the-badge)](mailto:01leonardoaraujo@gmail.com) |
-| ![Email Secundário](https://img.shields.io/badge/Email_Secundário-0078D4?style=for-the-badge&logo=gmail&logoColor=white) | leodigory@gmail.com                              | [![Contato](https://img.shields.io/badge/Enviar_Email-0078D4?style=for-the-badge)](mailto:leodigory@gmail.com) |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) | Leonardo Araújo                                  | [![Visitar](https://img.shields.io/badge/Perfil-0077B5?style=for-the-badge)](https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/) |
 
 ---
 
