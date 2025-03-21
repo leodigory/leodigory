@@ -1,6 +1,12 @@
 # Olá, eu sou Leonardo Araújo! 👋
 
 Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado por criar soluções que conectam pessoas e simplificam vidas.
+
+
+---
+
+## 🚀 Sobre Mim  
+Sou um estudante de Engenharia da Computação na UNIFOR, com foco em desenvolvimento web/mobile e design gráfico. Meu objetivo é combinar criatividade e tecnologia para construir experiências intuitivas e impactantes.
 <p align='center'>
   <a href="https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,12 +17,7 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e do design, apaixonado
 </p>
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
----
-
-## 🚀 Sobre Mim  
-Sou um estudante de Engenharia da Computação na UNIFOR, com foco em desenvolvimento web/mobile e design gráfico. Meu objetivo é combinar criatividade e tecnologia para construir experiências intuitivas e impactantes.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
 
 | 🎓 **Formação**                       | 💻 **Foco Principal**          | 🎨 **Design**                | 🌱 **Crescimento**          | 🚀 **Metas**              |
 |---------------------------------------|--------------------------------|-----------------------------|-----------------------------|---------------------------|
