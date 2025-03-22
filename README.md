@@ -3,7 +3,7 @@
 
 | Sobre Mim                                                                                              |                                                                                   |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Sou um estudante de Engenharia da Computação na **UNIFOR**, apaixonado por criar soluções intuitivas e impactantes. Combino tecnologia e criatividade para desenvolver projetos **web/mobile** e designs gráficos únicos. Atualmente, estou focado em **backend** e aprendizado contínuo por meio de bootcamps e projetos práticos. | <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px" alt="Tech Stack GIF"/> |
+| Sou um estudante de Engenharia da Computação na **UNIFOR**, apaixonado por criar soluções intuitivas e impactantes. Combino tecnologia e criatividade para desenvolver projetos **web/mobile** e designs gráficos únicos. Atualmente, estou focado no aprendizado contínuo por meio de projetos práticos. | <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px" alt="Tech Stack GIF"/> |
 
 <div align="center">
   <a href="mailto:01leonardoaraujo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
