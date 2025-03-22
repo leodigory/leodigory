@@ -10,16 +10,14 @@
   <a href="mailto:leodigory@gmail.com"><img src="https://img.shields.io/badge/Email_Secundário-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Secundário"/></a>
   <a href="https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
----##  Sobre Mim
+## Sobre Mim
 
-|  Formação                                                                 |  Foco                                                                    |  Design                                                                   |  Crescimento                                                               |
-|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| <div style="text-align: center;">                                          | <div style="text-align: center;">                                          | <div style="text-align: center;">                                          | <div style="text-align: center;">                                          |
-| <img src="1c4c4df9-5993-8555-a1f5-2c7a4144db31" alt="Graduação" width="48"/> | <img src="images" alt="Foco" width="48"/> | <img src="telegram_logo.jpg" alt="Design" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/17620/17620985.png" alt="Crescimento" width="48"/> |
-| ** Formação**<br>Engenharia da Computação<br><strong>UNIFOR</strong>     | ** Foco**<br>Desenvolvimento<br>Web & Mobile                            | ** Design**<br>UI/UX e<br>Gráficos 2D/3D                                | ** Crescimento**<br>Aprendizado<br>Contínuo                              |
-| </div>                                                                    | </div>                                                                    | </div>                                                                    | </div>                                                                    |
-
----
+| Formação                                                                 | Foco                                                                    | Design                                                                   | Crescimento                                                               |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| <div style="text-align: center;">                                        | <div style="text-align: center;">                                        | <div style="text-align: center;">                                        | <div style="text-align: center;">                                        |
+| <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" alt="Graduação" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/1995/1995485.png" alt="Foco" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Design" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/17620/17620985.png" alt="Crescimento" width="48"/> |
+| **Formação**<br>Engenharia da Computação<br><strong>UNIFOR</strong>      | **Foco**<br>Desenvolvimento<br>Web & Mobile                             | **Design**<br>UI/UX e<br>Gráficos 2D/3D                                 | **Crescimento**<br>Aprendizado<br>Contínuo                               |
+| </div>                                                                   | </div>                                                                   | </div>                                                                   | </div>                                                                   |
 
 ## 💡 Habilidades  
 
