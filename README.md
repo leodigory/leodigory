@@ -1,4 +1,3 @@
-
 # 🚀 Leonardo Araújo  
 **Estudante de Engenharia da Computação | Desenvolvedor Web/Mobile | Designer Gráfico**  
 
@@ -7,14 +6,14 @@
 | Sou um estudante de Engenharia da Computação na **UNIFOR**, apaixonado por criar soluções intuitivas e impactantes. Combino tecnologia e criatividade para desenvolver projetos **web/mobile** e designs gráficos únicos. Atualmente, estou focado em **backend** e aprendizado contínuo por meio de bootcamps e projetos práticos. | <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px" alt="Tech Stack GIF"/> |
 
 <div align="center">
-  <a href="mailto:01leonardoaraujo@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="mailto:leodigory@gmail.com"><img src="https://img.shields.io/badge/Email_Secundário-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Secundário"/></a>
+  <a href="mailto:01leonardoaraujo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:leodigory@gmail.com"><img src="https://img.shields.io/badge/Email_Secundário-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Secundário"/></a>
   <a href="https://www.linkedin.com/in/leonardo-araujo-57a3ab1b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 ---
 
-## 🧠 Sobre Mim  
+## 🧠 Sobre Mim
 
 | <div style="display: flex; justify-content: space-between; border: none;"> |
 |----------------------------------------------------------------------------|
@@ -38,7 +37,6 @@
 
 ---
 
----
 ## 💡 Habilidades  
 
 ### 🛠️ Tecnologias  
@@ -60,7 +58,7 @@
 ### 🎨 Design  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/CorelDRAW-F5A623?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJElEQVQ4jZ2SzUoDQRSGv7u4iIuLi+gqFqtYWNjYpGCxU+wMotjYpGAjYpFiY2NjY2GwkBAS7O46c2/OnMksvvkQJplMMvP//5kAwGezWY3ZbDYej8dOp9Nms9ns9/sOh0O/399tNpu6rue6nhsOh+VyOSiKopAkiuVyORqN5mE+nuf5PM/zPM+3XC7Xer2e5/k8TdO63W6r1arZbHZd1/U8z7NUQ4jZ2fbtu12u91ut9vt9nq9ns1mM51OJ5VKodvt9nq9ns1mM9/39fX19fV6PZvN5vV6PQCg1Wq1Wq3W6/X19fX39/f5fL5er9fr9fV6vV6v13M9nuf5PM/zfJ7n+Xy+nk8mky3Lsl6v57qu63me5/l8Pp/P5/O5XC7X6/X6fD6fz+d5nk8mkwV/AKmauWJ9V2UAAAAASUVORK5CYII=" alt="CorelDRAW"/>
+  <img src="https://img.shields.io/badge/CorelDRAW-F5A623?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJElEQVQ4jZ2SzUoDQRSGv7u4iIuLi+gqFqtYWNjYpGCxU+wMotjYpGAjYpFiY2NjY2GwkBAS7O46c2/OnMksvvkQJplMMvP//5kAwGezWY3ZbDYej8dOp9Nms9ns9/sOh0O/399tNpu6rue6nhsOh+VyOSiKopAkiuVyORqN5mE+nuf5PM/zPM+3XC7Xer2e5/k8TdO63W6r1arZbHZd1/U8z7NUQ4jZ2fbtu12u91ut9vt9nq9ns1mM51OJ5VKodvt9nq9ns1mM9/39fX19fV6PZvN5vV6PQCg1Wq1Wq3W6/X19fX39/f5fL5er9fr9fV6vV7P9Xie5/M8z/N5nufz+Xo+mUy2LMt6vZ7ruq7neZ7n8/l8Pp/P53K5XK/X6/P5fD6fz+d5nk8mkwV/AKmauWJ9V2UAAAAASUVORK5CYII=" alt="CorelDRAW"/>
 </div>
 
 ### 🌟 Soft Skills  
@@ -74,10 +72,11 @@
 ---
 
 ## 🎉 Bootcamps & Eventos  
-| Logo                                                                                   | Descrição                                                                                     |
-|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| <img src="https://img.icons8.com/?size=48&id=38273&format=png" alt="Bootcamp"/>       | **Bootcamp UNIFOR 6ª Edição**<br>Soluções práticas e trabalho em equipe                      |
-| <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="Backend"/>         | **Foco Backend**<br>Node.js, APIs e arquitetura de sistemas                                  |
+
+| Logo                                                                                   | Descrição                                                                                     | Certificações                                                                 |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| <img src="https://img.icons8.com/?size=48&id=38273&format=png" alt="Bootcamp"/>       | **Bootcamp UNIFOR 6ª Edição**<br>Soluções práticas e trabalho em equipe                      | **🏆 Certificado**                                                            |
+| <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="Backend"/>         | **Foco Backend**<br>Node.js, APIs e arquitetura de sistemas                                  | **🏆 Certificado**                                                            |
 
 ---
 
@@ -101,14 +100,6 @@
 
 ---
 
-## 🌱 Roadmap  
-- 🖥️ **Backend**: Node.js, GraphQL, Microsserviços  
-- 🗄️ **Bancos**: PostgreSQL, MongoDB  
-- ⚙️ **DevOps**: Docker, CI/CD  
-- 🔒 **Segurança**: Boas práticas em APIs  
-
----
-
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leodigory&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
@@ -125,19 +116,3 @@
 
 **Obrigado por visitar!**  
 *Vamos criar algo incrível juntos?* 😄  
-
----
-
-### 🏆 Certificações  
-- Bootcamp UNIFOR 6ª Edição  
-
-### 🌍 Idiomas  
-- 🇧🇷 Português: Nativo  
-- 🇬🇧 Inglês: Avançado  
-
-### 🎮 Hobbies  
-- 🎲 Jogos Indie  
-- 📸 Fotografia  
-- 🎵 Produção Musical  
-
----
