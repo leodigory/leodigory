@@ -18,6 +18,12 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" alt="Graduação" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/1995/1995485.png" alt="Foco" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Design" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135790.png" alt="Crescimento" width="48"/> |
 | **Formação**<br>Engenharia da Computação<br><strong>UNIFOR</strong>      | **Foco**<br>Desenvolvimento<br>Web & Mobile                             | **Design**<br>UI/UX e<br>Gráficos 2D/3D                                 | **Crescimento**<br>Aprendizado<br>Contínuo                               |
 | </div>                                                                   | </div>                                                                   | </div>                                                                   | </div>                                                                   |
+
+
+## 🎯 Objetivo  
+> Criar soluções tecnológicas que transformem vidas através de **desenvolvimento**, **design** e **inovação**.  
+> *Aberto a desafios e colaborações!*
+
 ## 💡 Habilidades  
 
 ### 🛠️ Tecnologias  
@@ -42,25 +48,6 @@
   <img src="https://img.shields.io/badge/CorelDRAW-F5A623?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJElEQVQ4jZ2SzUoDQRSGv7u4iIuLi+gqFqtYWNjYpGCxU+wMotjYpGAjYpFiY2NjY2GwkBAS7O46c2/OnMksvvkQJplMMvP//5kAwGezWY3ZbDYej8dOp9Nms9ns9/sOh0O/399tNpu6rue6nhsOh+VyOSiKopAkiuVyORqN5mE+nuf5PM/zPM+3XC7Xer2e5/k8TdO63W6r1arZbHZd1/U8z7NUQ4jZ2fbtu12u91ut9vt9nq9ns1mM51OJ5VKodvt9nq9ns1mM9/39fX19fV6PZvN5vV6PQCg1Wq1Wq3W6/X19fX39/f5fL5er9fr9fV6vV7P9Xie5/M8z/N5nufz+Xo+mUy2LMt6vZ7ruq7neZ7n8/l8Pp/P53K5XK/X6/P5fD6fz+d5nk8mkwV/AKmauWJ9V2UAAAAASUVORK5CYII=" alt="CorelDRAW"/>
 </div>
 
-### 🌟 Soft Skills  
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/Comunicação-00C4B4?style=flat-square&logo=speakap&logoColor=white" alt="Comunicação"/>
-  <img src="https://img.shields.io/badge/Liderança-FF5722?style=flat-square&logo=superpowers&logoColor=white" alt="Liderança"/>
-  <img src="https://img.shields.io/badge/Resolução-1976D2?style=flat-square&logo=codeforces&logoColor=white" alt="Resolução"/>
-  <img src="https://img.shields.io/badge/Aprendizado-4CAF50?style=flat-square&logo=bookstack&logoColor=white" alt="Aprendizado"/>
-</div>
-
----
-
-## 🎉 Bootcamps & Eventos  
-
-| Logo                                                                                   | Descrição                                                                                     | Certificações                                                                 |
-|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| <img src="https://img.icons8.com/?size=48&id=38273&format=png" alt="Bootcamp"/>       | **Bootcamp UNIFOR 6ª Edição**<br>Soluções práticas e trabalho em equipe                      | **🏆 Certificado**                                                            |
-| <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="Backend"/>         | **Foco Backend**<br>Node.js, APIs e arquitetura de sistemas                                  | **🏆 Certificado**                                                            |
-
----
-
 ## 🛠️ Projetos Destacados  
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 300px; text-align: center;">
@@ -78,20 +65,32 @@
     <br><a href="#">Em Breve</a>
   </div>
 </div>
+---
+
+### 🌟 Soft Skills  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/Comunicação-00C4B4?style=flat-square&logo=speakap&logoColor=white" alt="Comunicação"/>
+  <img src="https://img.shields.io/badge/Liderança-FF5722?style=flat-square&logo=superpowers&logoColor=white" alt="Liderança"/>
+  <img src="https://img.shields.io/badge/Resolução-1976D2?style=flat-square&logo=codeforces&logoColor=white" alt="Resolução"/>
+  <img src="https://img.shields.io/badge/Aprendizado-4CAF50?style=flat-square&logo=bookstack&logoColor=white" alt="Aprendizado"/>
+</div>
 
 ---
+
+## 🎉 Bootcamps & Eventos  
+
+| Logo                                                                                   | Descrição                                                                                     | Certificações                                                                 |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| <img src="https://img.icons8.com/?size=48&id=38273&format=png" alt="Bootcamp"/>       | **Bootcamp UNIFOR 6ª Edição**<br>Soluções práticas e trabalho em equipe                      | **🏆 Certificado**                                                            |
+
+---
+
 
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leodigory&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodigory&layout=compact&theme=radical&hide_border=true" alt="Langs"/>
 </div>
-
----
-
-## 🎯 Objetivo  
-> Criar soluções tecnológicas que transformem vidas através de **desenvolvimento**, **design** e **inovação**.  
-> *Aberto a desafios e colaborações!*
 
 ---
 
