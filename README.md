@@ -18,7 +18,6 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" alt="Graduação" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/1995/1995485.png" alt="Foco" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Design" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135790.png" alt="Crescimento" width="48"/> |
 | **Formação**<br>Engenharia da Computação<br><strong>UNIFOR</strong>      | **Foco**<br>Desenvolvimento<br>Web & Mobile                             | **Design**<br>UI/UX e<br>Gráficos 2D/3D                                 | **Crescimento**<br>Aprendizado<br>Contínuo                               |
 | </div>                                                                   | </div>                                                                   | </div>                                                                   | </div>                                                                   |
-
 ## 💡 Habilidades  
 
 ### 🛠️ Tecnologias  
