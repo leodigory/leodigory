@@ -17,20 +17,20 @@
 
 | <div style="display: flex; justify-content: space-between; border: none;"> |
 |----------------------------------------------------------------------------|
-| <div style="flex: 1; text-align: left; border: none;">                     |
-| <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="Graduação" align="left" width="48"/> |
+| <div style="flex: 1; text-align: center; border: none;">                   |
+| <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="Graduação" width="48"/> |
 | **🎓 Formação**<br>Engenharia da Computação<br><strong>UNIFOR</strong>     |
 | </div>                                                                    |
-| <div style="flex: 1; text-align: left; border: none;">                     |
-| <img src="https://img.icons8.com/?size=48&id=124991&format=png" alt="Foco" align="left" width="48"/> |
+| <div style="flex: 1; text-align: center; border: none;">                   |
+| <img src="https://img.icons8.com/?size=48&id=124991&format=png" alt="Foco" width="48"/> |
 | **💻 Foco**<br>Desenvolvimento<br>Web & Mobile                            |
 | </div>                                                                    |
-| <div style="flex: 1; text-align: left; border: none;">                     |
-| <img src="https://img.icons8.com/?size=48&id=13664&format=png" alt="Design" align="left" width="48"/> |
+| <div style="flex: 1; text-align: center; border: none;">                   |
+| <img src="https://img.icons8.com/?size=48&id=13664&format=png" alt="Design" width="48"/> |
 | **🎨 Design**<br>UI/UX e<br>Gráficos 2D/3D                                |
 | </div>                                                                    |
-| <div style="flex: 1; text-align: left; border: none;">                     |
-| <img src="https://img.icons8.com/?size=48&id=108787&format=png" alt="Crescimento" align="left" width="48"/> |
+| <div style="flex: 1; text-align: center; border: none;">                   |
+| <img src="https://img.icons8.com/?size=48&id=108787&format=png" alt="Crescimento" width="48"/> |
 | **🌱 Crescimento**<br>Aprendizado<br>Contínuo                              |
 | </div>                                                                    |
 | </div>                                                                    |
