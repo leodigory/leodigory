@@ -48,44 +48,13 @@
   <img src="https://img.shields.io/badge/CorelDRAW-F5A623?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJElEQVQ4jZ2SzUoDQRSGv7u4iIuLi+gqFqtYWNjYpGCxU+wMotjYpGAjYpFiY2NjY2GwkBAS7O46c2/OnMksvvkQJplMMvP//5kAwGezWY3ZbDYej8dOp9Nms9ns9/sOh0O/399tNpu6rue6nhsOh+VyOSiKopAkiuVyORqN5mE+nuf5PM/zPM+3XC7Xer2e5/k8TdO63W6r1arZbHZd1/U8z7NUQ4jZ2fbtu12u91ut9vt9nq9ns1mM51OJ5VKodvt9nq9ns1mM9/39fX19fV6PZvN5vV6PQCg1Wq1Wq3W6/X19fX39/f5fL5er9fr9fV6vV7P9Xie5/M8z/N5nufz+Xo+mUy2LMt6vZ7ruq7neZ7n8/l8Pp/P53K5XK/X6/P5fD6fz+d5nk8mkwV/AKmauWJ9V2UAAAAASUVORK5CYII=" alt="CorelDRAW"/>
 </div>
 
----## 🛠️ Projetos Destacados
+---## ️ Projetos Destacados
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-
-  <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 280px; text-align: center; margin: 10px;">
-    <h3>Teclado Virtual</h3>
-    <p>Teclado responsivo com interface moderna</p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material-UI"/>
-    <br><a href="https://github.com/leodigory/virtual_teclado">Ver no GitHub</a>
-    <br><img src="https://github.com/user-attachments/assets/02befe0e-c5e8-4b0a-8645-6b1c799b0223" width="200px" alt="Preview"/>
-  </div>
-
-  <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 280px; text-align: center; margin: 10px;">
-    <h3>Projeto 2</h3>
-    <p>Em desenvolvimento</p>
-    <img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/>
-    <br><a href="#">Em Breve</a>
-  </div>
-
-  <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 280px; text-align: center; margin: 10px;">
-    <h3>Projeto 3</h3>
-    <p>Em desenvolvimento</p>
-    <img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/>
-    <br><a href="#">Em Breve</a>
-  </div>
-
-  <div style="background: #1e1e1e; padding: 15px; border-radius: 10px; width: 280px; text-align: center; margin: 10px;">
-    <h3>Projeto 4</h3>
-    <p>Em desenvolvimento</p>
-    <img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/>
-    <br><a href="#">Em Breve</a>
-  </div>
-
-</div>
+| Projeto 1 | Projeto 2 | Projeto 3 | Projeto 4 |
+|---|---|---|---|
+| <div style="text-align: center;"><h3>Teclado Virtual</h3><p>Teclado responsivo com interface moderna</p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/><img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material-UI"/><br><a href="https://github.com/leodigory/virtual_teclado">Ver no GitHub</a><br><img src="https://github.com/user-attachments/assets/02befe0e-c5e8-4b0a-8645-6b1c799b0223" width="200px" alt="Preview"/></div> | <div style="text-align: center;"><h3>Projeto 2</h3><p>Em desenvolvimento</p><img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/><br><a href="#">Em Breve</a></div> | <div style="text-align: center;"><h3>Projeto 3</h3><p>Em desenvolvimento</p><img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/><br><a href="#">Em Breve</a></div> | <div style="text-align: center;"><h3>Projeto 4</h3><p>Em desenvolvimento</p><img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/><br><a href="#">Em Breve</a></div> |
 
 ---
-
 ### 🌟 Soft Skills  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/Comunicação-00C4B4?style=flat-square&logo=speakap&logoColor=white" alt="Comunicação"/>
