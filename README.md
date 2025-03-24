@@ -18,7 +18,8 @@
 | <div style="text-align: center;">                                        | <div style="text-align: center;">                                        | <div style="text-align: center;">                                        | <div style="text-align: center;">                                        |
 | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" alt="Graduação" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/1995/1995485.png" alt="Foco" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Design" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135790.png" alt="Crescimento" width="48"/> |
 | **Formação**<br>Engenharia da Computação<br><strong>UNIFOR</strong>      | **Foco**<br>Desenvolvimento<br>Web & Mobile                             | **Design**<br>UI/UX e<br>Gráficos 2D/3D                                 | **Crescimento**<br>Aprendizado<br>Contínuo                               |
-| </div>                                                                   | </div>                                                                   | </div>                                                                   | </div>                                                                   |
+| </div>                                                                   | </div>                                                                   | </div>                                                                   |
+ </div>                                                                   |
 
 ## 🎯 Objetivo  
 > Criar soluções tecnológicas que transformem vidas através de **desenvolvimento**, **design** e **inovação**.  
@@ -52,9 +53,10 @@
 
 ## ️ Projetos Destacados
 
+
 | Projeto 1 | Projeto 2 | Projeto 3 | Projeto 4 |
 |---|---|---|---|
-| <div style="text-align: center;"><h3>Teclado Virtual</h3><p>Teclado responsivo com interface moderna</p><img src="https://github.com/user-attachments/assets/02befe0e-c5e8-4b0a-8645-6b1c799b0223" width="200px" alt="Preview"/></div><br><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/><img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material-UI"/><br><a href="https://github.com/leodigory/virtual_teclado">Ver no GitHub</a><br> | <div style="text-align: center;"><h3>Projeto 2</h3><p>Em desenvolvimento</p><img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/><br><a href="#">Em Breve</a></div> | <div style="text-align: center;"><h3>Projeto 3</h3><p>Em desenvolvimento</p><img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/><br><a href="#">Em Breve</a></div> | <div style="text-align: center;"><h3>Projeto 4</h3><p>Em desenvolvimento</p><img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/><br><a href="#">Em Breve</a></div> |
+| <div style="text-align: center;"><h3>Teclado Virtual</h3><p>Teclado responsivo com interface moderna</p><img src="https://github.com/user-attachments/assets/23814e18-e1f2-4493-836f-fe8342257b37" width="200px" alt="Preview"/></div><br><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/><img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material-UI"/><br><a href="https://github.com/leodigory/virtual_teclado">Ver no GitHub</a><br> | <div style="text-align: center;"><h3>Projeto 2</h3><p>Em desenvolvimento</p><img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/><br><a href="#">Em Breve</a></div> | <div style="text-align: center;"><h3>Projeto 3</h3><p>Em desenvolvimento</p><img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/><br><a href="#">Em Breve</a></div> | <div style="text-align: center;"><h3>Projeto 4</h3><p>Em desenvolvimento</p><img src="https://img.shields.io/badge/Em_Breve-555555?style=flat-square&logo=github&logoColor=white" alt="Em Breve"/><br><a href="#">Em Breve</a></div> |
 
 ---
 
